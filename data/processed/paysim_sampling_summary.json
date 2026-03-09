@@ -1,0 +1,11 @@
+{
+  "source_csv": "/Users/trshwetha7/Desktop/Finance-Jupyternotebook /data/raw/PS_20174392719_1491204439457_log.csv",
+  "total_rows": 6362620,
+  "fraud_rows": 8213,
+  "non_fraud_rows": 6354407,
+  "sample_rows": 135303,
+  "sample_fraud_rows": 8213,
+  "sample_fraud_rate": 0.06070079746938353,
+  "non_fraud_sampling_fraction": 0.02,
+  "loaded_from_cache": false
+}

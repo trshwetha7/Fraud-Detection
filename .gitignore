@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+anaconda_projects/
+
+# Keep the folder structure, but avoid committing large raw data and caches.
+data/raw/*.csv
+data/processed/*.csv
