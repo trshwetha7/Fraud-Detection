@@ -145,4 +145,4 @@ notebooks/fraud_detection_analysis.ipynb
 
 **Shwetha Tinnium Raju**
 
-If you want to reuse or extend this work, feel free to adapt the notebook and modeling pipeline for different fraud scenarios or production-style scoring workflows.
+
